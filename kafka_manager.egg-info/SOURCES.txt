@@ -1,0 +1,7 @@
+README.md
+setup.py
+kafka_manager.egg-info/PKG-INFO
+kafka_manager.egg-info/SOURCES.txt
+kafka_manager.egg-info/dependency_links.txt
+kafka_manager.egg-info/requires.txt
+kafka_manager.egg-info/top_level.txt
